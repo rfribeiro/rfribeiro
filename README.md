@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-[![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rfribeiro@gmail.com?subject=Hi Rafael)
+[![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rfribeiro@gmail.com?subject=Hi)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/rafael-ribeiro-9a248211)
 
 ---
