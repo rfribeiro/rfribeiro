@@ -1,9 +1,9 @@
-# 🔥 Renan Pereira
+# 🔥 Rafael Fernando Ribeiro
 
-**Software Developer**
+**Software Developer / Data Scientist**
 
-- ⚡ Currently mastering: **_React, Next.js, Node.js, React Native_**
-- 📚 Currently learning: **_Electron, Elixir, TDD, Design Patterns, Svelte_**
+- ⚡ Working with **_Python, React, Next.js, Node.js, React Native_**
+- 📚 Currently learning: **_Elixir, TDD, Design Patterns_**
 
 ### How to reach me:
 
