@@ -2,7 +2,7 @@
 
 **Software Developer / Data Scientist**
 
-- ⚡ Working with **_Python, React, Next.js, Node.js, React Native_**
+- ⚡ Working with: **_Python, React, Next.js, Node.js, React Native_**
 - 📚 Currently learning: **_Elixir, TDD, Design Patterns_**
 
 ### How to reach me:
